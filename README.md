@@ -1,20 +1,4 @@
-<<<<<<< HEAD
-# Mobile_WeatherApp
-=======
-# weather_app
+Weather Mobile App built use Flutter and FreeCodeCamp API
+![Screenshot1](WhatsApp Image 2024-02-14 at 21.54.23_21f4e727.jpg)
+![Screenshot2](WhatsApp Image 2024-02-14 at 21.54.23_d4ddca3d.jpg)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> master
